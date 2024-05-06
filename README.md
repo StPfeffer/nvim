@@ -1,5 +1,27 @@
 # Neovim Configuration
 
-My take on Neovim configuration from [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
+This repository houses my personalized Neovim configuration, built upon the foundation of kickstart.nvim.
 
-Changed some keymaps, dependencies and neovim configuration
+## Overview
+
+I've tailored this configuration to suit my workflow by making adjustments to key mappings, dependencies, and various Neovim settings.
+
+## Installation
+
+To use this configuration:
+
+1. **Clone Repository**: Navigate to your Neovim configuration directory:
+
+    ```shell
+    cd ~/.config
+    ```
+
+    Clone the repository:
+
+    ```shell
+    git clone https://github.com/StPfeffer/nvim.git
+    ```
+
+2. **Load Configuration**: The next time you launch Neovim, it will automatically load this configuration, seamlessly integrating it into your environment.
+
+That's it! Enjoy the enhanced Neovim experience tailored to your needs.
