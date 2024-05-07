@@ -24,4 +24,4 @@ To use this configuration:
 
 2. **Load Configuration**: The next time you launch Neovim, it will automatically load this configuration, seamlessly integrating it into your environment.
 
-That's it! Enjoy the enhanced Neovim experience tailored to your needs.
+That's it! Enjoy the enhanced Neovim experience.
