@@ -1,10 +1,10 @@
 # Neovim Configuration
 
-This repository houses my personalized Neovim configuration, built upon the foundation of kickstart.nvim.
+This repository contains my custom Neovim configuration, built upon the foundation of [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim).
 
 ## Overview
 
-I've tailored this configuration to suit my workflow by making adjustments to key mappings, dependencies, and various Neovim settings.
+I adapted this configuration by making adjustments to key mappings, dependencies, and various Neovim's settings.
 
 ## Installation
 
